@@ -1,8 +1,8 @@
 #wall .tag-1 {
   display: none;
 }
-wall{
-  background-image: none;
+wall div#tag-2{
+  display: none;
 }
 wall[class="slick wicked"] {
   display: none;
